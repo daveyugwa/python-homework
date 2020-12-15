@@ -1,0 +1,6 @@
+Total Months:Date             86
+Profit/Losses    86
+dtype: int64  
+Total: $38382578  
+Greatest Increase: $1170593  
+Greatest Decrease: $-1196225  
